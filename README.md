@@ -8,6 +8,7 @@ current version is: 0.3.22.26
 to get access just:
 
 ☑️join to my discord: Discord link available under the base (5$) tariff plan.. spamers protection -I'm sry
+
 ☑️sign up for my boosty with a Core (25$) plan: https://boosty.to/gameassist
 
 ☑️PM me with your boosty nickname/e-mail and your github name for https://t.me/poe_gameassist
