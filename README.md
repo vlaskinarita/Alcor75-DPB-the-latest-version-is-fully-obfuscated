@@ -12,6 +12,7 @@ to get access just:
 ☑️join to my discord: the link to discord will be received on the boosty site after you sign up - sorry - protection from spammers.
 
 ☑️PM me your github name.
+
 ☑️The price includes unlimited (within reasonable limits) help in using/understanding the code of this complex Core,
 which will allow you to write cool add-ons/plugins.
 
