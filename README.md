@@ -12,8 +12,7 @@ to get access just:
 ☑️join to my discord: the link to discord will be received on the boosty site after you sign up - sorry - protection from spammers.
 
 ☑️PM me your github name.
-
-The price includes unlimited (within reasonable limits) help in using/understanding the code of this complex Core,
+☑️The price includes unlimited (within reasonable limits) help in using/understanding the code of this complex Core,
 which will allow you to write cool add-ons/plugins.
 
 ☑️I find it a bit difficult to communicate in text mode, so maybe you can use your telegram account, where we can chat and talk about the necessary points by voice. In that case, whisper to me  https://t.me/Wlastas_GameAssist
