@@ -1,6 +1,7 @@
 # Alcor75's DPB  Here is the fully obfuscated latest version.
-current version is: 0.3.22.26
-![image](https://github.com/vlaskinarita/Alcor75-DPB-the-latest-version-is-fully-obfuscated/assets/120003563/b194f5ef-8e5c-4878-8d92-488139eb26cc)
+current version is: 0.3.23.47 for game 3.23.1 Hotfix 2
+![image](https://github.com/vlaskinarita/Alcor75-DPB-the-latest-version-is-fully-obfuscated/assets/120003563/fc74d4c5-ae36-4d08-99d2-3d9d030e191c)
+
 
 
 ☑️you get access to a private repository
